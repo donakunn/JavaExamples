@@ -1,0 +1,2 @@
+package esempi;
+class Weeble {}
